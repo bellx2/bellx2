@@ -6,7 +6,7 @@ an engineer who does everything from front-end, cloud, mobile, embedded, and ele
 
 # Blog & Writing
 
-- https://note.com/bellx2
+- http://qiita.com/bellx2
 - https://bellx2.hateblo.jp
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/bellx2/posts.svg)](http://qiita.com/bellx2)
@@ -18,9 +18,6 @@ an engineer who does everything from front-end, cloud, mobile, embedded, and ele
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellx2&count_private=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bellx2&margin-w=5&margin-h=5&column=6&title=Stars,Followers,Commit,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)  
-
 
 <!---
 bellx2/bellx2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
